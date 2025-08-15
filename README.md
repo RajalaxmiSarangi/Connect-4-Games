@@ -13,29 +13,6 @@ Play against a friend locally, drop your colored discs into the grid, and be the
 - 📱 **Responsive Design** – Works on desktop and mobile browsers.
 - 🔄 **Restart Button** – Start a new game without refreshing.
 - 🏆 **Win Detection** – Automatically detects win or draw.
-
----
-
-## Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/RajalaxmiSarangi/Connect-4-Games.git
-cd Connect-4-Games
-```
-
-### Open in Browser
-
-Simply open the `index.html` file in your preferred web browser:
-
-```bash
-# If you have Python installed, you can run a simple server:
-python3 -m http.server
-# Then open http://localhost:8000 in your browser
-```
-Or just double-click the `index.html` file.
-
 ---
 
 ## 🕹️ How to Play
@@ -73,6 +50,12 @@ Or just double-click the `index.html` file.
 - **HTML** – Structure and layout
 
 ---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/RajalaxmiSarangi/Connect-4-Games.git
 
 Enjoy playing Connect 4, and happy coding!  
 *Made with ❤️ by [RajalaxmiSarangi](https://github.com/RajalaxmiSarangi)*
