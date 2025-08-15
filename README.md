@@ -16,9 +16,16 @@ Play against a friend locally, drop your colored discs into the grid, and be the
 
 ---
 
-## 📷 Screenshot
-*(Optional: add an image at `img/screenshot.png` and it will show here)*  
-![Game Screenshot](img/screenshot.png)
+## 📷 Screenshots
+
+**Game Start**
+![Start Screen](startgame.png)
+
+**Mid Game**
+![Mid Game](midgame.png)
+
+**Winning Moment**
+![Winning Moment](endgame.png)
 
 ---
 
