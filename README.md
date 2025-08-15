@@ -16,16 +16,25 @@ Play against a friend locally, drop your colored discs into the grid, and be the
 
 ---
 
-## 📷 Screenshots
+## Getting Started
 
-**Game Start**
-![Start Screen](startgame.png)
+### Clone the Repository
 
-**Mid Game**
-![Mid Game](midgame.png)
+```bash
+git clone https://github.com/RajalaxmiSarangi/Connect-4-Games.git
+cd Connect-4-Games
+```
 
-**Winning Moment**
-![Winning Moment](endgame.png)
+### Open in Browser
+
+Simply open the `index.html` file in your preferred web browser:
+
+```bash
+# If you have Python installed, you can run a simple server:
+python3 -m http.server
+# Then open http://localhost:8000 in your browser
+```
+Or just double-click the `index.html` file.
 
 ---
 
@@ -37,8 +46,33 @@ Play against a friend locally, drop your colored discs into the grid, and be the
 
 ---
 
-## 🚀 Getting Started
+## 📷 Screenshots
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/RajalaxmiSarangi/Connect-4-Games.git
+**Game Start**
+![Start Screen](startgame.png)
+
+**Mid Game**
+![Mid Game](midgame.png)
+
+**Winning Moment**
+![Winning Moment](endgame.png)
+
+## Project Structure
+
+```
+├── index.html        # Main HTML file
+├── style.css         # Styling for the game
+├── script.js         # Main game logic (JavaScript)
+└── assets/           # Images, icons, or fonts (if any)
+```
+
+## Technologies Used
+
+- **JavaScript** – Game logic and interactivity
+- **CSS** – Styling and responsive design
+- **HTML** – Structure and layout
+
+---
+
+Enjoy playing Connect 4, and happy coding!  
+*Made with ❤️ by [RajalaxmiSarangi](https://github.com/RajalaxmiSarangi)*
