@@ -58,9 +58,9 @@ Play against a friend locally, drop your colored discs into the grid, and be the
 git clone https://github.com/RajalaxmiSarangi/Connect-4-Games.git
 ```
 2️⃣ Open in Browser
-```
+
 Open index.html in any modern browser
-```
+
 ---
 
 Enjoy playing Connect 4, and happy coding!  
